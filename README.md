@@ -5,31 +5,4 @@ Total Profit: $286,397.02
 Average Profit Margin: 12.47%
 
 
-Sales & Profit Overview
-	•	Card (KPI):
-	•	Total Sales: SUM(Sales)
-	•	Total Profit: SUM(Profit)
-	•	Profit Margin: Use the measure created above.
-	•	Clustered Bar Chart:
-	•	Axis: Region
-	•	Values: Sales, Profit
-Category & Sub-Category Performance
-	•	Treemap:
-	•	Group: Category
-	•	Details: Sub-Category
-	•	Values: Profit
-	•	Stacked Column Chart:
-	•	Axis: Sub-Category
-	•	Values: Sales, Profit
-Time Trend
-	•	Converted Order Date to Month/Year hierarchy.
-	•	Line Chart:
-	•	Axis: Month or Year
-	•	Values: Sales, Profit
-Customer & Shipping Insights
-	•	Pie Chart:
-	•	Legend: Segment
-	•	Values: Profit
-	•	Column Chart:
-	•	Axis: Ship Mode
-	•	Values: Profit
+The report provides a comprehensive Sales & Profit Overview using KPIs to display Total Sales, Total Profit, and Profit Margin, complemented by a Clustered Bar Chart showing regional breakdowns. It dives into Category & Sub-Category Performance with a Treemap visualizing Profit by Category and Sub-Category, alongside a Stacked Column Chart comparing Sales and Profit across Sub-Categories. The Time Trend analysis uses a Month/Year hierarchy to illustrate Sales and Profit over time in a Line Chart. Lastly, Customer & Shipping Insights are captured through a Pie Chart breaking down Profit by Customer Segment and a Column Chart displaying Profit by Ship Mode.
